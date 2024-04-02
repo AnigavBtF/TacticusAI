@@ -1,0 +1,2790 @@
+{
+  "schemaVersion": 2,
+  "modifiedDate": "2024-04-01T18:49:46.099Z",
+  "seenAppVersion": "1.4.1",
+  "goals": [
+    {
+      "id": "67c3292d-f78c-42d1-accb-16dc5794919e",
+      "character": "Exitor-Rho",
+      "type": 1,
+      "targetRank": 13,
+      "priority": 1,
+      "upgrades": [
+        "Blessed Cogitator",
+        "Enhanced Cogwheel Crest",
+        "Greater Reliquary of Protection",
+        "Anointed Micro-Generator"
+      ],
+      "dailyRaids": false,
+      "rankPoint5": false,
+      "shardsPerDayOrToken": 3,
+      "currentRank": 11,
+      "currentRarity": 4,
+      "currentShards": 0
+    },
+    {
+      "id": "c83c411e-96fd-4d9c-a229-e4e3fc2c787f",
+      "character": "Eldryon",
+      "type": 1,
+      "targetRank": 14,
+      "priority": 2,
+      "upgrades": [],
+      "dailyRaids": true,
+      "rankPoint5": false,
+      "shardsPerDayOrToken": 3,
+      "currentRank": 13,
+      "currentRarity": 4
+    },
+    {
+      "id": "be2aa47b-e921-4279-b210-79b308a78098",
+      "character": "Anuphet",
+      "type": 1,
+      "targetRank": 13,
+      "priority": 3,
+      "upgrades": [],
+      "dailyRaids": true,
+      "rankPoint5": false,
+      "shardsPerDayOrToken": 3,
+      "currentRank": 9,
+      "currentRarity": 3
+    },
+    {
+      "id": "4faf04d4-2875-4fcb-a3dd-64f18380dc7a",
+      "character": "Aethana",
+      "type": 1,
+      "targetRank": 10,
+      "priority": 4,
+      "upgrades": [],
+      "dailyRaids": true,
+      "rankPoint5": false,
+      "shardsPerDayOrToken": 3,
+      "currentRank": 9,
+      "currentRarity": 2
+    },
+    {
+      "id": "8cfc584f-fd89-4da9-b092-66ae879a6ee2",
+      "character": "Sho'Syl",
+      "type": 1,
+      "targetRank": 13,
+      "priority": 5,
+      "upgrades": [],
+      "dailyRaids": true,
+      "rankPoint5": false,
+      "shardsPerDayOrToken": 3,
+      "currentRank": 7,
+      "currentRarity": 2
+    },
+    {
+      "id": "83a7130e-403e-4ce6-bc96-036416fca518",
+      "character": "Corrodius",
+      "type": 1,
+      "targetRank": 10,
+      "priority": 6,
+      "upgrades": [],
+      "dailyRaids": true,
+      "rankPoint5": false,
+      "shardsPerDayOrToken": 3,
+      "currentRank": 7,
+      "currentRarity": 3
+    },
+    {
+      "id": "31f046bd-45c1-4a8a-93d3-f0302d4d2cff",
+      "character": "Ancient Thoread",
+      "type": 1,
+      "targetRank": 10,
+      "priority": 7,
+      "upgrades": [
+        "Impressive Armor Trim",
+        "Krak Grenade",
+        "Righteous Candle"
+      ],
+      "dailyRaids": true,
+      "rankPoint5": false,
+      "shardsPerDayOrToken": 3,
+      "currentShards": 44,
+      "currentRank": 7,
+      "currentRarity": 3
+    },
+    {
+      "id": "30065bca-e2af-4927-9d14-1f6bbe4e98fe",
+      "character": "Abraxas",
+      "type": 1,
+      "targetRank": 7,
+      "priority": 8,
+      "upgrades": [],
+      "dailyRaids": true,
+      "rankPoint5": false,
+      "shardsPerDayOrToken": 3,
+      "currentRank": 6,
+      "currentRarity": 2,
+      "currentShards": 2
+    },
+    {
+      "id": "eb5910b3-e409-4048-a409-45c1874fb2fe",
+      "character": "Pestillian",
+      "type": 1,
+      "targetRank": 7,
+      "priority": 9,
+      "upgrades": [
+        "Mutation: Warped Lungs",
+        "Fine Micro-Generator",
+        "Enriched Rations",
+        "Adamantium Lump",
+        "Mutation: Scaly Skin"
+      ],
+      "dailyRaids": true,
+      "rankPoint5": false,
+      "shardsPerDayOrToken": 3,
+      "currentRank": 5,
+      "currentRarity": 2,
+      "currentShards": 7
+    },
+    {
+      "id": "9807bbdd-4ad5-4883-bb90-373418274672",
+      "character": "Vindicta",
+      "type": 1,
+      "targetRank": 7,
+      "priority": 10,
+      "upgrades": [],
+      "dailyRaids": true,
+      "rankPoint5": false,
+      "shardsPerDayOrToken": 3,
+      "currentRank": 5,
+      "currentRarity": 3
+    },
+    {
+      "id": "3649b0e0-d330-477a-a317-f4ee0904a238",
+      "character": "Darkstrider",
+      "type": 1,
+      "targetRank": 7,
+      "priority": 11,
+      "upgrades": [],
+      "dailyRaids": true,
+      "rankPoint5": false,
+      "shardsPerDayOrToken": 3,
+      "currentRank": 2,
+      "currentRarity": 2
+    },
+    {
+      "id": "43a9f9b9-0b8e-4501-9c93-f10aa072ee4a",
+      "character": "Sibyll",
+      "type": 1,
+      "targetRank": 7,
+      "priority": 12,
+      "upgrades": [
+        "Metal Decorative Skull",
+        "Entrenching Tool",
+        "Advanced Rebreather"
+      ],
+      "dailyRaids": true,
+      "rankPoint5": false,
+      "shardsPerDayOrToken": 3,
+      "currentRank": 6,
+      "currentRarity": 2,
+      "currentShards": 19
+    }
+  ],
+  "selectedTeamOrder": {
+    "orderBy": "rank",
+    "direction": "desc"
+  },
+  "leTeams": {
+    "2": {
+      "id": 2,
+      "name": "AunShi",
+      "alpha": {
+        "No Physical": [
+          "Aleph-Null",
+          "Angrax",
+          "Haarken Worldclaimer",
+          "Bellator"
+        ],
+        "Min 3 hits": [
+          "Aleph-Null",
+          "Angrax",
+          "Haarken Worldclaimer",
+          "Bellator"
+        ],
+        "No Range": [
+          "Aleph-Null",
+          "Angrax",
+          "Haarken Worldclaimer",
+          "Bellator"
+        ],
+        "Piercing": [
+          "Eldryon",
+          "Tyrant Guard",
+          "Incisus",
+          "Calandis"
+        ],
+        "Max 2 hits": [
+          "Calandis",
+          "Incisus",
+          "Tyrant Guard",
+          "Eldryon"
+        ]
+      },
+      "beta": {
+        "No Resiliant": [
+          "Aleph-Null",
+          "Imospekh",
+          "Boss Gulgortz",
+          "Makhotep",
+          "Thutmose"
+        ],
+        "No Summons": [
+          "Aleph-Null",
+          "Imospekh",
+          "Boss Gulgortz",
+          "Makhotep",
+          "Thutmose"
+        ],
+        "Mechanical": [
+          "Aleph-Null",
+          "Imospekh",
+          "Boss Gulgortz",
+          "Makhotep",
+          "Thutmose"
+        ],
+        "No Range": [
+          "Gibbascrapz",
+          "Snotflogga",
+          "Tyrant Guard"
+        ],
+        "Physical": [
+          "Gibbascrapz",
+          "Snotflogga",
+          "Tyrant Guard"
+        ]
+      },
+      "gamma": {
+        "Physical": [
+          "Makhotep",
+          "Neurothrope",
+          "Tan Gi'Da",
+          "Varro Tigurius",
+          "Tyrant Guard"
+        ],
+        "No Power": [
+          "Tyrant Guard",
+          "Varro Tigurius",
+          "Tan Gi'Da",
+          "Neurothrope",
+          "Makhotep"
+        ],
+        "No Overwatch": [
+          "Makhotep",
+          "Neurothrope",
+          "Tan Gi'Da",
+          "Varro Tigurius",
+          "Tyrant Guard"
+        ],
+        "No Flying": [
+          "Certus",
+          "Calandis",
+          "Incisus",
+          "Tan Gi'Da",
+          "Varro Tigurius"
+        ],
+        "Max 1 hit": [
+          "Certus",
+          "Calandis",
+          "Incisus",
+          "Tan Gi'Da",
+          "Varro Tigurius"
+        ]
+      }
+    },
+    "4": {
+      "id": 4,
+      "name": "Shadowsun",
+      "alpha": {
+        "Big Target": [
+          "Morvenn Vahl",
+          "Tyrant Guard",
+          "Kut Skoden",
+          "Re'Vas",
+          "Boss Gulgortz"
+        ],
+        "No Psykers": [
+          "Kut Skoden",
+          "Boss Gulgortz",
+          "Re'Vas",
+          "Tyrant Guard",
+          "Morvenn Vahl"
+        ],
+        "No Range": [],
+        "Min 4 hits": [],
+        "Power": []
+      },
+      "beta": {
+        "ASTRA MILITARUM": [
+          "Kut Skoden",
+          "Thaddeus Noble",
+          "Sibyll"
+        ],
+        "No Summons": [
+          "Actus",
+          "Tan Gi'Da",
+          "Aleph-Null",
+          "Makhotep",
+          "Morvenn Vahl"
+        ],
+        "No Piercing": [
+          "Aleph-Null",
+          "Makhotep",
+          "Tan Gi'Da",
+          "Actus",
+          "Morvenn Vahl"
+        ],
+        "No Bolter": [
+          "Makhotep",
+          "Tan Gi'Da",
+          "Actus",
+          "Aleph-Null"
+        ],
+        "Mechanical": [
+          "Actus",
+          "Tan Gi'Da",
+          "Aleph-Null",
+          "Makhotep",
+          "Morvenn Vahl"
+        ]
+      },
+      "gamma": {
+        "No Piercing": [
+          "Makhotep",
+          "Toth",
+          "Aleph-Null",
+          "Boss Gulgortz",
+          "Re'Vas"
+        ],
+        "Min 3 hits": [
+          "Toth",
+          "Aleph-Null",
+          "Boss Gulgortz",
+          "Re'Vas"
+        ],
+        "Power": [
+          "Toth",
+          "Maladus",
+          "Aun'Shi",
+          "Angrax",
+          "Volk"
+        ],
+        "Black Legion": [
+          "Volk",
+          "Archimatos",
+          "Haarken Worldclaimer",
+          "Angrax"
+        ],
+        "Ranged": [
+          "Toth",
+          "Boss Gulgortz",
+          "Makhotep",
+          "Re'Vas"
+        ]
+      }
+    },
+    "5": {
+      "id": 5,
+      "name": "Ragnar",
+      "alpha": {
+        "Max 3 hits": [
+          "Corrodius",
+          "Pestillian",
+          "Maladus",
+          "High Marshal Helbrecht"
+        ],
+        "Melee only": [
+          "Isabella"
+        ],
+        "Resilient": [
+          "Corrodius",
+          "Pestillian",
+          "Maladus"
+        ],
+        "Bolter": [
+          "Roswitha",
+          "Certus",
+          "Brother Burchard",
+          "Morvenn Vahl",
+          "Isabella"
+        ],
+        "Ranged": [
+          "Roswitha",
+          "Certus",
+          "Brother Burchard",
+          "Morvenn Vahl"
+        ]
+      },
+      "beta": {
+        "No Summons": [
+          "Isabella",
+          "Tyrant Guard",
+          "Eldryon",
+          "Aun'Shi"
+        ],
+        "Flying": [
+          "Re'Vas",
+          "Actus",
+          "Aleph-Null"
+        ],
+        "Min 3 hit": [
+          "Aun'Shi",
+          "Morvenn Vahl",
+          "Brother Burchard",
+          "Ulf",
+          "Isabella"
+        ],
+        "Power": [
+          "Ulf",
+          "Brother Burchard",
+          "Aun'Shi",
+          "Morvenn Vahl"
+        ],
+        "Physical": [
+          "Tyrant Guard",
+          "Tan Gi'Da",
+          "Makhotep"
+        ]
+      },
+      "gamma": {
+        "No Black Legion": [
+          "Eldryon",
+          "Tyrant Guard",
+          "Calandis",
+          "Aethana",
+          "Toth"
+        ],
+        "No Physical": [
+          "Maladus",
+          "Aun'Shi",
+          "Angrax",
+          "Toth"
+        ],
+        "Melee only": [
+          "Maladus",
+          "Aun'Shi",
+          "Angrax",
+          "Tyrant Guard"
+        ],
+        "Power": [
+          "Maladus",
+          "Aun'Shi",
+          "Angrax",
+          "Toth"
+        ],
+        "Piercing": [
+          "Eldryon",
+          "Tyrant Guard",
+          "Calandis",
+          "Aethana"
+        ]
+      }
+    },
+    "6": {
+      "id": 6,
+      "name": "Vitruvius",
+      "alpha": {
+        "No Resilient": [
+          "Toth",
+          "Morvenn Vahl",
+          "Volk"
+        ],
+        "No Psychic": [
+          "Toth",
+          "Morvenn Vahl",
+          "Volk"
+        ],
+        "Ranged": [
+          "Toth",
+          "Morvenn Vahl",
+          "Volk"
+        ],
+        "Power": [
+          "Toth",
+          "Morvenn Vahl",
+          "Volk"
+        ]
+      },
+      "beta": {
+        "Piercing": [
+          "Tyrant Guard",
+          "Eldryon",
+          "Calandis",
+          "Incisus"
+        ],
+        "Max 2 hits": [
+          "Tyrant Guard",
+          "Eldryon",
+          "Calandis",
+          "Incisus"
+        ],
+        "No Summons": [
+          "Tyrant Guard",
+          "Eldryon",
+          "Calandis",
+          "Incisus"
+        ],
+        "No Infiltrate": [
+          "Tyrant Guard",
+          "Eldryon",
+          "Calandis",
+          "Incisus"
+        ]
+      },
+      "gamma": {
+        "Power": [
+          "Toth",
+          "Volk",
+          "Angrax"
+        ],
+        "No Flying": [
+          "Toth",
+          "Volk",
+          "Angrax"
+        ],
+        "No Psykers": [
+          "Toth",
+          "Volk",
+          "Angrax"
+        ],
+        "No Death Guard": [
+          "Toth",
+          "Volk",
+          "Angrax"
+        ]
+      }
+    }
+  },
+  "leProgress": {
+    "2": {
+      "id": 2,
+      "name": "AunShi",
+      "alpha": {
+        "battles": [
+          [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ],
+          [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ],
+          [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ],
+          [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ],
+          [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ],
+          [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ],
+          [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ],
+          [
+            true,
+            true,
+            true,
+            false,
+            true,
+            true,
+            false
+          ],
+          [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+          ],
+          [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+          ],
+          [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+          ],
+          [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+          ]
+        ]
+      },
+      "beta": {
+        "battles": [
+          [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ],
+          [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ],
+          [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ],
+          [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ],
+          [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ],
+          [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ],
+          [
+            true,
+            true,
+            true,
+            true,
+            false,
+            false,
+            true
+          ],
+          [
+            true,
+            true,
+            false,
+            true,
+            false,
+            false,
+            false
+          ],
+          [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+          ],
+          [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+          ],
+          [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+          ],
+          [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+          ]
+        ]
+      },
+      "gamma": {
+        "battles": [
+          [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ],
+          [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ],
+          [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ],
+          [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ],
+          [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ],
+          [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ],
+          [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+          ],
+          [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+          ],
+          [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+          ],
+          [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+          ],
+          [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+          ],
+          [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+          ]
+        ]
+      },
+      "regularMissions": 10,
+      "premiumMissions": 10,
+      "bundle": 1,
+      "notes": ""
+    },
+    "5": {
+      "id": 5,
+      "name": "Ragnar",
+      "alpha": {
+        "battles": [
+          [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ],
+          [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ],
+          [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ],
+          [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ],
+          [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ],
+          [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ],
+          [
+            true,
+            true,
+            true,
+            true,
+            false,
+            true,
+            false
+          ],
+          [
+            true,
+            true,
+            true,
+            true,
+            false,
+            true,
+            false
+          ],
+          [
+            true,
+            true,
+            true,
+            true,
+            false,
+            false,
+            false
+          ],
+          [
+            true,
+            true,
+            true,
+            true,
+            false,
+            false,
+            false
+          ],
+          [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+          ],
+          [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+          ]
+        ]
+      },
+      "beta": {
+        "battles": [
+          [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ],
+          [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ],
+          [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ],
+          [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ],
+          [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ],
+          [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ],
+          [
+            true,
+            true,
+            false,
+            true,
+            true,
+            false,
+            true
+          ],
+          [
+            true,
+            true,
+            true,
+            true,
+            true,
+            false,
+            true
+          ],
+          [
+            true,
+            true,
+            true,
+            false,
+            false,
+            false,
+            true
+          ],
+          [
+            true,
+            true,
+            true,
+            false,
+            false,
+            false,
+            false
+          ],
+          [
+            true,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+          ],
+          [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+          ]
+        ]
+      },
+      "gamma": {
+        "battles": [
+          [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ],
+          [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ],
+          [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ],
+          [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ],
+          [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ],
+          [
+            true,
+            true,
+            true,
+            true,
+            true,
+            false,
+            true
+          ],
+          [
+            true,
+            true,
+            true,
+            false,
+            true,
+            false,
+            false
+          ],
+          [
+            true,
+            true,
+            true,
+            false,
+            false,
+            false,
+            false
+          ],
+          [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+          ],
+          [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+          ],
+          [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+          ],
+          [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+          ]
+        ]
+      },
+      "regularMissions": 6,
+      "premiumMissions": 6,
+      "bundle": 1,
+      "notes": "",
+      "overview": {
+        "1": {
+          "regularMissions": 10,
+          "premiumMissions": 10,
+          "bundle": 0
+        },
+        "2": {
+          "regularMissions": 10,
+          "premiumMissions": 10,
+          "bundle": 0
+        },
+        "3": {
+          "regularMissions": 0,
+          "premiumMissions": 0,
+          "bundle": 0
+        }
+      }
+    }
+  },
+  "leSelectedRequirements": {
+    "2": {
+      "id": 2,
+      "name": "AunShi",
+      "alpha": {
+        "Piercing": true,
+        "No Range": false,
+        "Min 3 hits": false,
+        "No Physical": false,
+        "Max 2 hits": true
+      },
+      "beta": {
+        "No Summons": false,
+        "No Resiliant": false,
+        "No Range": true,
+        "Mechanical": false,
+        "Physical": false
+      },
+      "gamma": {
+        "No Flying": false,
+        "No Overwatch": true,
+        "No Power": false,
+        "Max 1 hit": false,
+        "Physical": false
+      }
+    },
+    "4": {
+      "id": 4,
+      "name": "Shadowsun",
+      "alpha": {
+        "No Psykers": false,
+        "No Range": false,
+        "Min 4 hits": false,
+        "Power": false,
+        "Big Target": false
+      },
+      "beta": {
+        "No Piercing": true,
+        "No Bolter": false,
+        "No Summons": true,
+        "Mechanical": true,
+        "ASTRA MILITARUM": false
+      },
+      "gamma": {
+        "No Piercing": true,
+        "Min 3 hits": false,
+        "Ranged": false,
+        "Black Legion": false,
+        "Power": false
+      }
+    },
+    "5": {
+      "id": 5,
+      "name": "Ragnar",
+      "alpha": {
+        "Max 3 hits": false,
+        "Ranged": false,
+        "Bolter": false,
+        "Melee only": false,
+        "Resilient": false
+      },
+      "beta": {
+        "Power": false,
+        "No Summons": false,
+        "Min 3 hit": false,
+        "Flying": false,
+        "Physical": false
+      },
+      "gamma": {
+        "No Black Legion": false,
+        "No Physical": false,
+        "Power": false,
+        "Melee only": false,
+        "Piercing": false
+      }
+    },
+    "6": {
+      "id": 6,
+      "name": "Vitruvius",
+      "alpha": {
+        "Power": true,
+        "No Resilient": true,
+        "No Psychic": true,
+        "Ranged": true,
+        "Max 1 hit": false
+      },
+      "beta": {
+        "Max 2 hits": true,
+        "Piercing": true
+      },
+      "gamma": {
+        "Power": true,
+        "No Death Guard": false,
+        "No Psykers": true,
+        "No Flying": true
+      }
+    }
+  },
+  "characters": [
+    {
+      "name": "Varro Tigurius",
+      "rank": 11,
+      "rarity": 3,
+      "bias": 0,
+      "upgrades": [
+        "Terminator Honours",
+        "Legendary Reliquary of Vengeance"
+      ],
+      "activeAbilityLevel": 33,
+      "passiveAbilityLevel": 16,
+      "stars": 7,
+      "level": 33,
+      "xp": 0,
+      "shards": 68
+    },
+    {
+      "name": "Certus",
+      "rank": 8,
+      "rarity": 2,
+      "bias": 0,
+      "upgrades": [
+        "Powerful Micro-Generator",
+        "Kill Count"
+      ],
+      "activeAbilityLevel": 22,
+      "passiveAbilityLevel": 8,
+      "stars": 6,
+      "level": 24,
+      "xp": 0,
+      "shards": 76
+    },
+    {
+      "name": "Bellator",
+      "rank": 10,
+      "rarity": 3,
+      "bias": 0,
+      "upgrades": [
+        "Greater Reliquary of Protection",
+        "Grand Purity Seal",
+        "Duplicate Organ"
+      ],
+      "activeAbilityLevel": 33,
+      "passiveAbilityLevel": 16,
+      "stars": 7,
+      "level": 33,
+      "xp": 0,
+      "shards": 8
+    },
+    {
+      "name": "Incisus",
+      "rank": 10,
+      "rarity": 2,
+      "bias": 0,
+      "upgrades": [],
+      "activeAbilityLevel": 17,
+      "passiveAbilityLevel": 26,
+      "stars": 6,
+      "level": 26,
+      "xp": 0,
+      "shards": 0
+    },
+    {
+      "name": "Marneus Calgar",
+      "rank": 0,
+      "rarity": 4,
+      "bias": 0,
+      "upgrades": [],
+      "activeAbilityLevel": 0,
+      "passiveAbilityLevel": 0,
+      "stars": 8,
+      "level": 1,
+      "xp": 0,
+      "shards": 36
+    },
+    {
+      "name": "Makhotep",
+      "rank": 10,
+      "rarity": 2,
+      "bias": 0,
+      "upgrades": [],
+      "activeAbilityLevel": 19,
+      "passiveAbilityLevel": 25,
+      "stars": 6,
+      "level": 26,
+      "xp": 26,
+      "shards": 83
+    },
+    {
+      "name": "Imospekh",
+      "rank": 12,
+      "rarity": 3,
+      "bias": 0,
+      "upgrades": [],
+      "activeAbilityLevel": 33,
+      "passiveAbilityLevel": 35,
+      "stars": 8,
+      "level": 35,
+      "xp": 0,
+      "shards": 7
+    },
+    {
+      "name": "Aleph-Null",
+      "rank": 13,
+      "rarity": 3,
+      "bias": 0,
+      "upgrades": [],
+      "activeAbilityLevel": 35,
+      "passiveAbilityLevel": 25,
+      "stars": 7,
+      "level": 35,
+      "xp": 0,
+      "shards": 52
+    },
+    {
+      "name": "Thutmose",
+      "rank": 10,
+      "rarity": 2,
+      "bias": 0,
+      "upgrades": [],
+      "activeAbilityLevel": 25,
+      "passiveAbilityLevel": 17,
+      "stars": 6,
+      "level": 26,
+      "xp": 0,
+      "shards": 64
+    },
+    {
+      "name": "Anuphet",
+      "rank": 9,
+      "rarity": 3,
+      "bias": 0,
+      "upgrades": [
+        "Engrammatic Entangler"
+      ],
+      "activeAbilityLevel": 30,
+      "passiveAbilityLevel": 9,
+      "stars": 6,
+      "level": 30,
+      "xp": 0,
+      "shards": 36
+    },
+    {
+      "name": "Sibyll",
+      "rank": 6,
+      "rarity": 2,
+      "bias": 0,
+      "upgrades": [
+        "Metal Decorative Skull",
+        "Entrenching Tool",
+        "Advanced Rebreather"
+      ],
+      "activeAbilityLevel": 8,
+      "passiveAbilityLevel": 17,
+      "stars": 5,
+      "level": 18,
+      "xp": 0,
+      "shards": 19
+    },
+    {
+      "name": "Commissar Yarrick",
+      "rank": 0,
+      "rarity": 2,
+      "bias": 0,
+      "upgrades": [],
+      "activeAbilityLevel": 0,
+      "passiveAbilityLevel": 0,
+      "stars": 4,
+      "level": 1,
+      "xp": 0,
+      "shards": 43
+    },
+    {
+      "name": "Kut Skoden",
+      "rank": 11,
+      "rarity": 3,
+      "bias": 0,
+      "upgrades": [
+        "Golden Ornamental Skull",
+        "Epaulettes"
+      ],
+      "activeAbilityLevel": 17,
+      "passiveAbilityLevel": 8,
+      "stars": 7,
+      "level": 32,
+      "xp": 0,
+      "shards": 0
+    },
+    {
+      "name": "Thaddeus Noble",
+      "rank": 10,
+      "rarity": 4,
+      "bias": 0,
+      "upgrades": [
+        "Veteran's Entrenching Tool",
+        "Bionic Neural Pathways"
+      ],
+      "activeAbilityLevel": 24,
+      "passiveAbilityLevel": 8,
+      "stars": 8,
+      "level": 28,
+      "xp": 0,
+      "shards": 2
+    },
+    {
+      "name": "Castellan Creed",
+      "rank": 0,
+      "rarity": 4,
+      "bias": 0,
+      "upgrades": [],
+      "activeAbilityLevel": 0,
+      "passiveAbilityLevel": 0,
+      "stars": 8,
+      "level": 1,
+      "xp": 0,
+      "shards": 32
+    },
+    {
+      "name": "Angrax",
+      "rank": 12,
+      "rarity": 3,
+      "bias": 0,
+      "upgrades": [
+        "Daemonic Armor Trim"
+      ],
+      "activeAbilityLevel": 22,
+      "passiveAbilityLevel": 35,
+      "stars": 8,
+      "level": 35,
+      "xp": 0,
+      "shards": 53
+    },
+    {
+      "name": "Volk",
+      "rank": 9,
+      "rarity": 3,
+      "bias": 0,
+      "upgrades": [
+        "Kill Count",
+        "Icon of Daemonic Vengeance"
+      ],
+      "activeAbilityLevel": 8,
+      "passiveAbilityLevel": 8,
+      "stars": 6,
+      "level": 24,
+      "xp": 0,
+      "shards": 45
+    },
+    {
+      "name": "Archimatos",
+      "rank": 10,
+      "rarity": 4,
+      "bias": 0,
+      "upgrades": [
+        "Daemonic Armor Trim"
+      ],
+      "activeAbilityLevel": 26,
+      "passiveAbilityLevel": 19,
+      "stars": 8,
+      "level": 27,
+      "xp": 0,
+      "shards": 25
+    },
+    {
+      "name": "Haarken Worldclaimer",
+      "rank": 11,
+      "rarity": 4,
+      "bias": 0,
+      "upgrades": [
+        "Golden Ornamental Skull",
+        "Blessed Promethium Tank",
+        "Mutation: Metallic Skin"
+      ],
+      "activeAbilityLevel": 29,
+      "passiveAbilityLevel": 23,
+      "stars": 9,
+      "level": 34,
+      "xp": 31500,
+      "shards": 50
+    },
+    {
+      "name": "Abaddon The Despoiler",
+      "rank": 0,
+      "rarity": 4,
+      "bias": 0,
+      "upgrades": [],
+      "activeAbilityLevel": 0,
+      "passiveAbilityLevel": 0,
+      "stars": 8,
+      "level": 1,
+      "xp": 0,
+      "shards": 99
+    },
+    {
+      "name": "Vindicta",
+      "rank": 5,
+      "rarity": 3,
+      "bias": 0,
+      "upgrades": [
+        "The Silver Eagle with Swords",
+        "Belt of Frag Grenades",
+        "Adamantium Lump",
+        "Ceramite Lump",
+        "Reliquary of Vengeance"
+      ],
+      "activeAbilityLevel": 8,
+      "passiveAbilityLevel": 13,
+      "stars": 8,
+      "level": 24,
+      "xp": 0,
+      "shards": 7
+    },
+    {
+      "name": "Isabella",
+      "rank": 10,
+      "rarity": 2,
+      "bias": 0,
+      "upgrades": [],
+      "activeAbilityLevel": 17,
+      "passiveAbilityLevel": 25,
+      "stars": 5,
+      "level": 26,
+      "xp": 0,
+      "shards": 1
+    },
+    {
+      "name": "Morvenn Vahl",
+      "rank": 16,
+      "rarity": 4,
+      "bias": 0,
+      "upgrades": [],
+      "activeAbilityLevel": 42,
+      "passiveAbilityLevel": 40,
+      "stars": 9,
+      "level": 44,
+      "xp": 156000,
+      "shards": 26
+    },
+    {
+      "name": "Roswitha",
+      "rank": 4,
+      "rarity": 2,
+      "bias": 0,
+      "upgrades": [
+        "Oath Seal",
+        "Adamantium Lump",
+        "Attack Vector Data-Slate",
+        "Writings",
+        "Mission Objective"
+      ],
+      "activeAbilityLevel": 8,
+      "passiveAbilityLevel": 1,
+      "stars": 6,
+      "level": 12,
+      "xp": 0,
+      "shards": 165
+    },
+    {
+      "name": "Celestine",
+      "rank": 0,
+      "rarity": 4,
+      "bias": 0,
+      "upgrades": [],
+      "activeAbilityLevel": 0,
+      "passiveAbilityLevel": 0,
+      "stars": 8,
+      "level": 1,
+      "xp": 0,
+      "shards": 46
+    },
+    {
+      "name": "Snotflogga",
+      "rank": 7,
+      "rarity": 2,
+      "bias": 0,
+      "upgrades": [
+        "Iron Jaw",
+        "Bad Moon Teef"
+      ],
+      "activeAbilityLevel": 17,
+      "passiveAbilityLevel": 8,
+      "stars": 6,
+      "level": 25,
+      "xp": 0,
+      "shards": 544
+    },
+    {
+      "name": "Gibbascrapz",
+      "rank": 7,
+      "rarity": 2,
+      "bias": 0,
+      "upgrades": [
+        "Bad Moon Teef"
+      ],
+      "activeAbilityLevel": 15,
+      "passiveAbilityLevel": 8,
+      "stars": 6,
+      "level": 19,
+      "xp": 0,
+      "shards": 0
+    },
+    {
+      "name": "Snappawrecka",
+      "rank": 8,
+      "rarity": 2,
+      "bias": 0,
+      "upgrades": [
+        "Adamantium Bar",
+        "Ard Plate"
+      ],
+      "activeAbilityLevel": 6,
+      "passiveAbilityLevel": 8,
+      "stars": 6,
+      "level": 25,
+      "xp": 0,
+      "shards": 725
+    },
+    {
+      "name": "Tanksmasha",
+      "rank": 1,
+      "rarity": 3,
+      "bias": 0,
+      "upgrades": [],
+      "activeAbilityLevel": 1,
+      "passiveAbilityLevel": 1,
+      "stars": 6,
+      "level": 1,
+      "xp": 0,
+      "shards": 78
+    },
+    {
+      "name": "Boss Gulgortz",
+      "rank": 11,
+      "rarity": 3,
+      "bias": 0,
+      "upgrades": [],
+      "activeAbilityLevel": 1,
+      "passiveAbilityLevel": 26,
+      "stars": 6,
+      "level": 30,
+      "xp": 0,
+      "shards": 26
+    },
+    {
+      "name": "Sword Brother Godswyl",
+      "rank": 7,
+      "rarity": 2,
+      "bias": 0,
+      "upgrades": [
+        "Righteous Candle"
+      ],
+      "activeAbilityLevel": 17,
+      "passiveAbilityLevel": 17,
+      "stars": 6,
+      "level": 18,
+      "xp": 0,
+      "shards": 40
+    },
+    {
+      "name": "Brother Burchard",
+      "rank": 10,
+      "rarity": 2,
+      "bias": 0,
+      "upgrades": [],
+      "activeAbilityLevel": 17,
+      "passiveAbilityLevel": 26,
+      "stars": 4,
+      "level": 26,
+      "xp": 0,
+      "shards": 17
+    },
+    {
+      "name": "Ancient Thoread",
+      "rank": 7,
+      "rarity": 3,
+      "bias": 0,
+      "upgrades": [
+        "Impressive Armor Trim",
+        "Krak Grenade",
+        "Righteous Candle",
+        "Grand Skull Trophy"
+      ],
+      "activeAbilityLevel": 29,
+      "passiveAbilityLevel": 17,
+      "stars": 6,
+      "level": 29,
+      "xp": 3500,
+      "shards": 50
+    },
+    {
+      "name": "Brother Jaeger",
+      "rank": 0,
+      "rarity": 3,
+      "bias": 0,
+      "upgrades": [],
+      "activeAbilityLevel": 0,
+      "passiveAbilityLevel": 0,
+      "stars": 6,
+      "level": 1,
+      "xp": 0,
+      "shards": 39
+    },
+    {
+      "name": "High Marshal Helbrecht",
+      "rank": 7,
+      "rarity": 4,
+      "bias": 0,
+      "upgrades": [
+        "Righteous Candle"
+      ],
+      "activeAbilityLevel": 11,
+      "passiveAbilityLevel": 8,
+      "stars": 8,
+      "level": 17,
+      "xp": 0,
+      "shards": 35
+    },
+    {
+      "name": "Typhus",
+      "rank": 0,
+      "rarity": 4,
+      "bias": 0,
+      "upgrades": [],
+      "activeAbilityLevel": 0,
+      "passiveAbilityLevel": 0,
+      "stars": 8,
+      "level": 1,
+      "xp": 0,
+      "shards": 57
+    },
+    {
+      "name": "Maladus",
+      "rank": 14,
+      "rarity": 4,
+      "bias": 0,
+      "upgrades": [],
+      "activeAbilityLevel": 35,
+      "passiveAbilityLevel": 35,
+      "stars": 9,
+      "level": 38,
+      "xp": 0,
+      "shards": 34
+    },
+    {
+      "name": "Nauseous Rotbone",
+      "rank": 0,
+      "rarity": 3,
+      "bias": 0,
+      "upgrades": [],
+      "activeAbilityLevel": 0,
+      "passiveAbilityLevel": 0,
+      "stars": 6,
+      "level": 1,
+      "xp": 0,
+      "shards": 31
+    },
+    {
+      "name": "Pestillian",
+      "rank": 5,
+      "rarity": 2,
+      "bias": 0,
+      "upgrades": [
+        "Satchel",
+        "Enriched Rations"
+      ],
+      "activeAbilityLevel": 17,
+      "passiveAbilityLevel": 17,
+      "stars": 5,
+      "level": 20,
+      "xp": 0,
+      "shards": 22
+    },
+    {
+      "name": "Corrodius",
+      "rank": 7,
+      "rarity": 3,
+      "bias": 0,
+      "upgrades": [
+        "Grand Skull Trophy",
+        "Plague Bell",
+        "Krak Grenade",
+        "Impressive Armor Trim",
+        "Mutation: Warped Skin"
+      ],
+      "activeAbilityLevel": 30,
+      "passiveAbilityLevel": 8,
+      "stars": 6,
+      "level": 30,
+      "xp": 0,
+      "shards": 63
+    },
+    {
+      "name": "Calandis",
+      "rank": 8,
+      "rarity": 3,
+      "bias": 0,
+      "upgrades": [
+        "Box of Rations",
+        "Spirit Stone",
+        "High-Capacity Power Pack",
+        "Wraithbone Plate",
+        "Decorated Cloak"
+      ],
+      "activeAbilityLevel": 12,
+      "passiveAbilityLevel": 17,
+      "stars": 7,
+      "level": 24,
+      "xp": 0,
+      "shards": 60
+    },
+    {
+      "name": "Aethana",
+      "rank": 9,
+      "rarity": 2,
+      "bias": 0,
+      "upgrades": [],
+      "activeAbilityLevel": 11,
+      "passiveAbilityLevel": 18,
+      "stars": 6,
+      "level": 24,
+      "xp": 0,
+      "shards": 285
+    },
+    {
+      "name": "Eldryon",
+      "rank": 13,
+      "rarity": 4,
+      "bias": 0,
+      "upgrades": [
+        "Scriptures of Fate",
+        "Soul-Bonded Psytronome",
+        "Soul-Bonded Wraithbone Plate",
+        "Relic Micro-Generator"
+      ],
+      "activeAbilityLevel": 26,
+      "passiveAbilityLevel": 41,
+      "stars": 8,
+      "level": 41,
+      "xp": 28700,
+      "shards": 42
+    },
+    {
+      "name": "Maugan Ra",
+      "rank": 0,
+      "rarity": 4,
+      "bias": 0,
+      "upgrades": [],
+      "activeAbilityLevel": 0,
+      "passiveAbilityLevel": 0,
+      "stars": 8,
+      "level": 1,
+      "xp": 0,
+      "shards": 16
+    },
+    {
+      "name": "Jain Zar",
+      "rank": 0,
+      "rarity": 4,
+      "bias": 0,
+      "upgrades": [],
+      "activeAbilityLevel": 0,
+      "passiveAbilityLevel": 0,
+      "stars": 8,
+      "level": 1,
+      "xp": 0,
+      "shards": 117
+    },
+    {
+      "name": "Sho'Syl",
+      "rank": 7,
+      "rarity": 2,
+      "bias": 0,
+      "upgrades": [
+        "Stimm Injector"
+      ],
+      "activeAbilityLevel": 11,
+      "passiveAbilityLevel": 17,
+      "stars": 5,
+      "level": 17,
+      "xp": 0,
+      "shards": 10
+    },
+    {
+      "name": "Re'Vas",
+      "rank": 11,
+      "rarity": 3,
+      "bias": 0,
+      "upgrades": [
+        "Bionic Neural Pathways"
+      ],
+      "activeAbilityLevel": 17,
+      "passiveAbilityLevel": 17,
+      "stars": 6,
+      "level": 31,
+      "xp": 0,
+      "shards": 89
+    },
+    {
+      "name": "Darkstrider",
+      "rank": 2,
+      "rarity": 2,
+      "bias": 0,
+      "upgrades": [
+        "Locator Beacon",
+        "Adamantium Filaments"
+      ],
+      "activeAbilityLevel": 8,
+      "passiveAbilityLevel": 8,
+      "stars": 4,
+      "level": 17,
+      "xp": 0,
+      "shards": 20
+    },
+    {
+      "name": "Aun'Shi",
+      "rank": 13,
+      "rarity": 4,
+      "bias": 0,
+      "upgrades": [],
+      "activeAbilityLevel": 17,
+      "passiveAbilityLevel": 35,
+      "stars": 8,
+      "level": 35,
+      "xp": 0,
+      "shards": 80
+    },
+    {
+      "name": "Shadowsun",
+      "rank": 0,
+      "rarity": 4,
+      "bias": 0,
+      "upgrades": [],
+      "activeAbilityLevel": 0,
+      "passiveAbilityLevel": 0,
+      "stars": 8,
+      "level": 1,
+      "xp": 0,
+      "shards": 0
+    },
+    {
+      "name": "Ulf",
+      "rank": 7,
+      "rarity": 2,
+      "bias": 0,
+      "upgrades": [
+        "Wolf Tail Talisman",
+        "Bladesman's Honour"
+      ],
+      "activeAbilityLevel": 26,
+      "passiveAbilityLevel": 8,
+      "stars": 6,
+      "level": 26,
+      "xp": 0,
+      "shards": 129
+    },
+    {
+      "name": "Tjark",
+      "rank": 7,
+      "rarity": 2,
+      "bias": 0,
+      "upgrades": [
+        "Krak Grenade",
+        "Wolf Tail Talisman"
+      ],
+      "activeAbilityLevel": 17,
+      "passiveAbilityLevel": 17,
+      "stars": 6,
+      "level": 17,
+      "xp": 0,
+      "shards": 7
+    },
+    {
+      "name": "Azrael",
+      "rank": 0,
+      "rarity": 3,
+      "bias": 0,
+      "upgrades": [],
+      "activeAbilityLevel": 0,
+      "passiveAbilityLevel": 0,
+      "stars": 6,
+      "level": 1,
+      "xp": 0,
+      "shards": 76
+    },
+    {
+      "name": "Arjac",
+      "rank": 0,
+      "rarity": 2,
+      "bias": 0,
+      "upgrades": [],
+      "activeAbilityLevel": 0,
+      "passiveAbilityLevel": 0,
+      "stars": 4,
+      "level": 1,
+      "xp": 0,
+      "shards": 36
+    },
+    {
+      "name": "Yazaghor",
+      "rank": 6,
+      "rarity": 2,
+      "bias": 0,
+      "upgrades": [
+        "Inferno Bolts"
+      ],
+      "activeAbilityLevel": 8,
+      "passiveAbilityLevel": 8,
+      "stars": 6,
+      "level": 20,
+      "xp": 0,
+      "shards": 33
+    },
+    {
+      "name": "Toth",
+      "rank": 13,
+      "rarity": 3,
+      "bias": 0,
+      "upgrades": [],
+      "activeAbilityLevel": 17,
+      "passiveAbilityLevel": 32,
+      "stars": 6,
+      "level": 35,
+      "xp": 0,
+      "shards": 52
+    },
+    {
+      "name": "Abraxas",
+      "rank": 6,
+      "rarity": 2,
+      "bias": 0,
+      "upgrades": [
+        "Inferno Bolts",
+        "Adamantium Lump",
+        "Crate of Salvage",
+        "Mission Objective"
+      ],
+      "activeAbilityLevel": 17,
+      "passiveAbilityLevel": 17,
+      "stars": 4,
+      "level": 26,
+      "xp": 0,
+      "shards": 10
+    },
+    {
+      "name": "Thaumachus",
+      "rank": 0,
+      "rarity": 3,
+      "bias": 0,
+      "upgrades": [],
+      "activeAbilityLevel": 0,
+      "passiveAbilityLevel": 0,
+      "stars": 6,
+      "level": 1,
+      "xp": 0,
+      "shards": 43
+    },
+    {
+      "name": "Sarquael",
+      "rank": 0,
+      "rarity": 1,
+      "bias": 0,
+      "upgrades": [],
+      "activeAbilityLevel": 0,
+      "passiveAbilityLevel": 0,
+      "stars": 2,
+      "level": 1,
+      "xp": 0,
+      "shards": 37
+    },
+    {
+      "name": "Neurothrope",
+      "rank": 10,
+      "rarity": 3,
+      "bias": 0,
+      "upgrades": [
+        "Warp Locus"
+      ],
+      "activeAbilityLevel": 16,
+      "passiveAbilityLevel": 32,
+      "stars": 6,
+      "level": 35,
+      "xp": 0,
+      "shards": 0
+    },
+    {
+      "name": "Ahriman",
+      "rank": 0,
+      "rarity": 4,
+      "bias": 0,
+      "upgrades": [],
+      "activeAbilityLevel": 0,
+      "passiveAbilityLevel": 0,
+      "stars": 8,
+      "level": 1,
+      "xp": 0,
+      "shards": 12
+    },
+    {
+      "name": "Tyrant Guard",
+      "rank": 13,
+      "rarity": 4,
+      "bias": 0,
+      "upgrades": [
+        "Psychic Force Conduit"
+      ],
+      "activeAbilityLevel": 25,
+      "passiveAbilityLevel": 36,
+      "stars": 8,
+      "level": 36,
+      "xp": 0,
+      "shards": 2
+    },
+    {
+      "name": "Winged Tyrant Prime",
+      "rank": 8,
+      "rarity": 3,
+      "bias": 0,
+      "upgrades": [
+        "Classified Data-Slate",
+        "Reinforced Chitin"
+      ],
+      "activeAbilityLevel": 17,
+      "passiveAbilityLevel": 17,
+      "stars": 7,
+      "level": 25,
+      "xp": 0,
+      "shards": 31
+    },
+    {
+      "name": "Deathleaper",
+      "rank": 9,
+      "rarity": 4,
+      "bias": 0,
+      "upgrades": [
+        "Duplicate Organ",
+        "Battle Scar"
+      ],
+      "activeAbilityLevel": 8,
+      "passiveAbilityLevel": 9,
+      "stars": 8,
+      "level": 24,
+      "xp": 0,
+      "shards": 30
+    },
+    {
+      "name": "Njal Stormcaller",
+      "rank": 0,
+      "rarity": 3,
+      "bias": 0,
+      "upgrades": [],
+      "activeAbilityLevel": 0,
+      "passiveAbilityLevel": 0,
+      "stars": 6,
+      "level": 1,
+      "xp": 0,
+      "shards": 3
+    },
+    {
+      "name": "Ragnar Blackmane",
+      "rank": 7,
+      "rarity": 4,
+      "bias": 0,
+      "upgrades": [
+        "The Phoenix Ascendant",
+        "Wolf Tail Talisman"
+      ],
+      "activeAbilityLevel": 14,
+      "passiveAbilityLevel": 14,
+      "stars": 8,
+      "level": 26,
+      "xp": 0,
+      "shards": 0
+    },
+    {
+      "name": "Vitruvius",
+      "rank": 0,
+      "rarity": 4,
+      "bias": 0,
+      "upgrades": [],
+      "activeAbilityLevel": 0,
+      "passiveAbilityLevel": 0,
+      "stars": 8,
+      "level": 1,
+      "xp": 0,
+      "shards": 0
+    },
+    {
+      "name": "Actus",
+      "rank": 13,
+      "rarity": 4,
+      "bias": 0,
+      "upgrades": [
+        "Archeotech Bionics"
+      ],
+      "activeAbilityLevel": 26,
+      "passiveAbilityLevel": 27,
+      "stars": 8,
+      "level": 35,
+      "xp": 3000,
+      "shards": 0
+    },
+    {
+      "name": "Tan Gi'Da",
+      "rank": 13,
+      "rarity": 4,
+      "bias": 0,
+      "upgrades": [
+        "Mechadendrite Hive",
+        "Relic Auxiliary Core",
+        "Relic Bionic Enhancement",
+        "Archeotech Bionics"
+      ],
+      "activeAbilityLevel": 35,
+      "passiveAbilityLevel": 35,
+      "stars": 8,
+      "level": 37,
+      "xp": 11500,
+      "shards": 12
+    },
+    {
+      "name": "Exitor-Rho",
+      "rank": 11,
+      "rarity": 4,
+      "bias": 0,
+      "upgrades": [
+        "Blessed Cogitator",
+        "Enhanced Cogwheel Crest",
+        "Greater Reliquary of Protection",
+        "Anointed Micro-Generator"
+      ],
+      "activeAbilityLevel": 26,
+      "passiveAbilityLevel": 33,
+      "stars": 8,
+      "level": 33,
+      "xp": 6000,
+      "shards": 0
+    },
+    {
+      "name": "Wrask",
+      "rank": 7,
+      "rarity": 3,
+      "bias": 0,
+      "upgrades": [
+        "Brazen Jaws"
+      ],
+      "activeAbilityLevel": 14,
+      "passiveAbilityLevel": 25,
+      "stars": 6,
+      "level": 25,
+      "xp": 0,
+      "shards": 0
+    }
+  ],
+  "autoTeamsPreferences": {
+    "preferCampaign": false,
+    "ignoreRank": false,
+    "ignoreRarity": false,
+    "ignoreRecommendedFirst": false,
+    "ignoreRecommendedLast": false
+  },
+  "viewPreferences": {
+    "showAlpha": true,
+    "showBeta": true,
+    "showGamma": true,
+    "lightWeight": true,
+    "hideSelectedTeams": false,
+    "autoTeams": true,
+    "onlyUnlocked": true,
+    "hideCompleted": false,
+    "craftableItemsInInventory": false,
+    "hideNames": false,
+    "wyoFilter": 0,
+    "wyoOrder": 4,
+    "showBadges": true,
+    "showAbilitiesLevel": true,
+    "showBsValue": false,
+    "showPower": false,
+    "showCharacterLevel": true,
+    "showCharacterRarity": false,
+    "inventoryShowAlphabet": true
+  },
+  "dailyRaidsPreferences": {
+    "dailyEnergy": 538,
+    "shardsEnergy": 0,
+    "useCampaignsProgress": true,
+    "useMostEfficientNodes": true,
+    "useMoreEfficientNodes": true,
+    "useLeastEfficientNodes": false,
+    "useInventory": true,
+    "farmByPriorityOrder": false
+  },
+  "campaignsProgress": {
+    "Indomitus": 75,
+    "Indomitus Mirror": 75,
+    "Indomitus Elite": 40,
+    "Indomitus Mirror Elite": 28,
+    "Fall of Cadia": 75,
+    "Fall of Cadia Mirror": 75,
+    "Fall of Cadia Elite": 31,
+    "Fall of Cadia Mirror Elite": 32,
+    "Octarius": 75,
+    "Octarius Mirror": 75,
+    "Octarius Elite": 1,
+    "Octarius Mirror Elite": 40,
+    "Saim-Hann": 75,
+    "Saim-Hann Mirror": 75
+  },
+  "inventory": {
+    "upgrades": {
+      "Holy Chaplet": 1,
+      "Codex Astartes Page": 11,
+      "Kustom Gubbinz": 7,
+      "Blessing of Nurgle": 5,
+      "Blessing of the Dark Gods": 6,
+      "Engram Neurochip": 7,
+      "Runes of Fate": 2,
+      "Stone Guardian Fragment": 5,
+      "Psychic Force Conduit": 1,
+      "Purity Seal of the Primarch": 4,
+      "Engrammatic Entangler": 27,
+      "Blessed Cogitator": 50,
+      "Warp Locus": 27,
+      "Terminator Honours": 25,
+      "Hypermaterial Shifter": 26,
+      "Golden Ornamental Skull": 13,
+      "Bionic Neural Pathways": 7,
+      "Honourifica Imperialis": 12,
+      "Bones of the Paragons": 13,
+      "Mjod": 8,
+      "Blessing of Tzeentch": 20,
+      "Synaptic Augmentation": 5,
+      "Master-Crafted Ammo": 1,
+      "The Silver Aquila": 66,
+      "Purity Seal": 84,
+      "Lesser Reliquary of Protection": 54,
+      "Archeotech Bionics": 2,
+      "Psyk-Conductive Material": 2,
+      "Mechadendrite Hive": 1,
+      "Special Issue Ammo": 5,
+      "Greater Reliquary of Vengeance": 7,
+      "Ancient Tasset Plate": 1,
+      "Crusader's Tabbard": 1,
+      "Chain of Righteous Zeal": 1,
+      "Lights of Purgation": 1,
+      "Ice Troll Hide": 1,
+      "Runic Talisman": 1,
+      "Thunderwolf Tooth Necklace": 1,
+      "Duplicate Organ": 5,
+      "Blessed Promethium Canister": 18,
+      "Revered Talisman": 1,
+      "Secret Agenda": 2,
+      "Relic Hilt": 14,
+      "Tainted Text": 0,
+      "Iron Jaw": 19,
+      "Blessed Corset Armor": 13,
+      "Drone Controller": 0,
+      "Sensor Suite": 0,
+      "Mutation: Warped Heart": 1,
+      "Artificer Tasset Plate": 0,
+      "Reinforced Chitin": 2,
+      "Righteous Candle": 14,
+      "Key of Ignorance": 12,
+      "Chain of Zeal": 16,
+      "Entrenching Tool": 20,
+      "Ard Plate": 5,
+      "Beast Hide": 17,
+      "Blessed Tabbard": 29,
+      "Plague Bell": 0,
+      "Rose of Martyrs": 0,
+      "Flak Plates": 27,
+      "Dark Hood": 8,
+      "Waystone": 10,
+      "Battle Scar": 24,
+      "Wolf Tail Talisman": 8,
+      "Inferno Bolts": 0,
+      "Stimm Injector": 0,
+      "Ritual Implements": 0,
+      "Eye of Horus": 1,
+      "Wolf Tooth Necklace": 9,
+      "Hymn of Martyrs": 4,
+      "Viridian Energy Tesseract": 19,
+      "Bladesman's Honour": 9,
+      "Tank of Promethium": 6,
+      "Krak Grenade": 8,
+      "Ancient Runes": 0,
+      "Chapter Pendant": 10,
+      "Wraithbone Plate": 10,
+      "The Phoenix Ascendant": 0,
+      "Repair-Kit": 0,
+      "Zeidos Ribbon": 11,
+      "Unnatural Vapour Dispenser": 2,
+      "Classified Data-Slate": 0,
+      "Attack Vector Data-Slate": 115,
+      "Locator Beacon": 83,
+      "Mutation: Warped Lungs": 3,
+      "Advanced Rebreather": 14,
+      "Ceramite Lump": 7,
+      "The Silver Eagle with Swords": 10,
+      "Mesh Weave": 0,
+      "Satchel": 0,
+      "Fine Micro-Generator": 0,
+      "Enriched Rations": 1,
+      "Divinator Class Auspex": 3,
+      "Reliquary of Vengeance": 12,
+      "Reinforced Scale-Plates": 1,
+      "Marksman's Honour": 3,
+      "Air Purificator": 2,
+      "Combat Stimms": 0,
+      "Blessed Tasset Plate": 0,
+      "Barrel of Promethium": 0,
+      "Advanced Filaments": 0,
+      "Writings": 0,
+      "Frag Grenade": 0,
+      "Minor Bionic Enhancement": 0,
+      "Field Ration": 11,
+      "Lesser Reliquary of Vengeance": 3,
+      "Standard-Issue Tourniquet": 0,
+      "Canister of Chemicals": 0,
+      "Chip Damage": 0,
+      "Basic Auxiliary Core": 0,
+      "The Iron Phoenix": 8,
+      "Auspex": 20,
+      "Ballistics Data": 0,
+      "Weapon Anointment Oils": 0,
+      "Healing Ointment": 0,
+      "Round of Ammo": 0,
+      "Ropes and Chains": 0,
+      "Scrolls": 0,
+      "Single Power Pack": 0,
+      "Targeting Link": 0,
+      "Thick Skin": 8,
+      "Mutation: Tough Skin": 0,
+      "Rebreather": 0,
+      "Otherworldly Energy": 1,
+      "Nano Swarm": 0,
+      "Wires": 0,
+      "Weapon Parts": 0,
+      "Vox-Caster": 0,
+      "Metal Joints": 3,
+      "Mutation: Warped Muscles": 0,
+      "Adamantium Filaments": 0,
+      "Adamantium Ore": 0,
+      "Armor Trim": 0,
+      "Can of Promethium": 0,
+      "Nasty Spikes": 0,
+      "Reinforced Cables": 0,
+      "Helmet Trophy": 0,
+      "Box of Salvage": 0,
+      "Pile of Salvage": 0,
+      "Sigil of Decay": 0,
+      "Metal Decorative Skull": 0,
+      "Death Shroud": 1,
+      "Icon of Vengeance": 5,
+      "Blasphemous Armor Trim": 3,
+      "Subdermal Plating": 2,
+      "Mutation: Scaly Skin": 0,
+      "Cogwheel Crest": 0,
+      "Motive Force Capacitator": 0,
+      "Mission Assignment": 0,
+      "Cloak": 0,
+      "Slicing Claws": 0,
+      "Kill Count": 0,
+      "Mission Objective": 0,
+      "Crate of Salvage": 0,
+      "Reliquary of Protection": 0,
+      "Oath Seal": 0,
+      "Fine Purity Seal": 0,
+      "The Gold Phoenix": 0,
+      "Psytronome": 0,
+      "Bionic Eye": 0,
+      "Unyielding Rivets": 0,
+      "Archeo-Tech Remnant": 1,
+      "Sophisticated Material": 0,
+      "Reconstitution Protocols": 0,
+      "Plasma Cell": 0,
+      "Adrenal Glands": 0
+    }
+  },
+  "dailyRaids": {
+    "completedLocations": [],
+    "lastRefreshDateUTC": "Wed, 24 Jan 2024 20:18:09 GMT"
+  },
+  "guildWar": {
+    "battlefieldLevel": 4,
+    "teams": [
+      {
+        "id": "9a8bbcba-b06f-4d32-a0ea-f4f1c47e41ef",
+        "name": "Team 1",
+        "type": 0,
+        "rarityCap": 4,
+        "lineup": [
+          "Morvenn Vahl",
+          "Maladus",
+          "Eldryon",
+          "Aun'Shi",
+          "Tyrant Guard"
+        ]
+      },
+      {
+        "id": "ff3e21e8-3103-49a0-b2c1-a74da0311a7a",
+        "name": "Team 2",
+        "type": 0,
+        "rarityCap": 3,
+        "lineup": [
+          "Tan Gi'Da",
+          "Actus",
+          "Imospekh",
+          "Aleph-Null",
+          "Toth"
+        ]
+      },
+      {
+        "id": "304386c4-d1c2-4b9d-b6f0-7759c755238a",
+        "name": "Team 3",
+        "type": 0,
+        "rarityCap": 2,
+        "lineup": [
+          "Exitor-Rho",
+          "Thutmose",
+          "Boss Gulgortz",
+          "Makhotep",
+          "Re'Vas"
+        ]
+      },
+      {
+        "id": "965a1d48-78a4-4c2d-b4c1-2fca502ca7a5",
+        "name": "Team 4",
+        "type": 0,
+        "rarityCap": 2,
+        "lineup": [
+          "Corrodius",
+          "Archimatos",
+          "Haarken Worldclaimer",
+          "Angrax",
+          "Wrask"
+        ]
+      },
+      {
+        "id": "8a97aa5a-49af-4ad1-ba0f-dc0ad4f1815d",
+        "name": "Team 5",
+        "type": 0,
+        "rarityCap": 2,
+        "lineup": [
+          "Incisus",
+          "Isabella",
+          "Bellator",
+          "Thaddeus Noble",
+          "Varro Tigurius"
+        ]
+      },
+      {
+        "id": "70da9177-4196-469e-8a03-8f3bcc061678",
+        "name": "Team 1",
+        "type": 1,
+        "rarityCap": 2,
+        "lineup": []
+      },
+      {
+        "id": "37de6e71-93b7-42fc-bfae-15b6f8882578",
+        "name": "Team 2",
+        "type": 1,
+        "rarityCap": 2,
+        "lineup": []
+      },
+      {
+        "id": "1e3fbad0-220f-4be3-8110-0cdadb69a6ef",
+        "name": "Team 3",
+        "type": 1,
+        "rarityCap": 2,
+        "lineup": []
+      },
+      {
+        "id": "72bc97ee-fa3f-4cc8-a808-4bb176e6b23d",
+        "name": "Team 4",
+        "type": 1,
+        "rarityCap": 2,
+        "lineup": []
+      },
+      {
+        "id": "9ec3c585-dde7-416f-9e8d-f20dd06219a2",
+        "name": "Team 5",
+        "type": 1,
+        "rarityCap": 3,
+        "lineup": []
+      },
+      {
+        "id": "88ac3be0-603b-4c42-ad82-a1b804255e01",
+        "name": "Team 6",
+        "type": 1,
+        "rarityCap": 2,
+        "lineup": []
+      },
+      {
+        "id": "a2a4ea06-1c1d-4957-afd3-8572afb7f520",
+        "name": "Team 7",
+        "type": 1,
+        "rarityCap": 2,
+        "lineup": []
+      },
+      {
+        "id": "cfe44d17-636d-43ed-b022-15ab0d060bba",
+        "name": "Team 8",
+        "type": 1,
+        "rarityCap": 2,
+        "lineup": []
+      },
+      {
+        "id": "1d4170c8-3c8e-4062-bffc-2e65d9b292f6",
+        "name": "Team 9",
+        "type": 1,
+        "rarityCap": 2,
+        "lineup": []
+      },
+      {
+        "id": "6604eca7-404e-4fed-89de-6eb506cc59e8",
+        "name": "Team 10",
+        "type": 1,
+        "rarityCap": 2,
+        "lineup": []
+      }
+    ],
+    "sectionId": "frontline"
+  }
+}
